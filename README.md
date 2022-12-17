@@ -1,3 +1,2 @@
-# WhackAMole
-ONLY WORKS ON WINDOWS
-Use Link To Download Game
+# ONLY WORKS ON WINDOWS
+# Use Link To Download Game
